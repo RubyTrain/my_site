@@ -1,0 +1,183 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bak",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Firefox_preview.sublime-build",
+	"command_palette":
+	{
+		"height": 125.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 303.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/SwiftTrain/Library/Application Support/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/Users/SwiftTrain/Documents/lightbox/brents/my projects/robotMaze/robotmaze_js/maze.js",
+		"/Users/SwiftTrain/Downloads/lightbox/untitled folder/robotMaze",
+		"/Users/SwiftTrain/Downloads/lightbox/Responsive_template/index.html",
+		"/Users/SwiftTrain/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/SwiftTrain/Downloads/lightbox/Responsive_template/styles.css",
+		"/Users/SwiftTrain/Downloads/lightbox/untitled folder/CODE_library",
+		"/Users/SwiftTrain/Library/Application Support/Sublime Text 2/Packages/User/Safari_preview.sublime-build",
+		"/Users/SwiftTrain/Library/Application Support/Sublime Text 2/Packages/User/Firefox_preview.sublime-build",
+		"/Users/SwiftTrain/Library/Application Support/Sublime Text 2/Packages/User/Google_preview.sublime-build",
+		"/Users/SwiftTrain/Downloads/lightbox/THROWAWAY",
+		"/throwaway.rb",
+		"/Users/SwiftTrain/Library/Application Support/Sublime Text 2/Packages/Default/Preferences (OSX).sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xs",
+			"sx",
+			"            </",
+			"p",
+			"            </",
+			"3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 86.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true
+}
